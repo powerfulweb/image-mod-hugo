@@ -1,0 +1,26 @@
+{
+  "name": "@powerfulweb/image-gen-hugo",
+  "version": "1.0.0",
+  "description": "Generation of responsive images for lazy loading in hugo",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "release:dry-run": "standard-version --dry-run",
+    "git:push": "git push --follow-tags origin main"
+  },
+  "devDependencies": {
+    "standard-version": "^9.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/powerfulweb/image-gen-hugo"
+  },
+  "keywords": [
+    "hugo",
+    "background-image",
+    "lazyload",
+    "lazysizes"
+  ],
+  "author": "Powerful Web Design",
+  "license": "ISC"
+}
