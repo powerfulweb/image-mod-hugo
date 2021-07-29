@@ -1,6 +1,6 @@
 {
   "name": "@powerfulweb/image-gen-hugo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generation of responsive images for lazy loading in hugo",
   "main": "index.js",
   "scripts": {
